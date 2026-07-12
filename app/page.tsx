@@ -134,7 +134,7 @@ export default function HomePage() {
             {/* Location CTAs */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-10">
               <a
-                href="tel:+916283969800"
+                href="tel:+916283969898"
                 className="btn-gold text-base px-8 py-4"
                 aria-label="Call Jalandhar Hub"
               >
@@ -142,7 +142,7 @@ export default function HomePage() {
                 Jalandhar Hub – Call Now
               </a>
               <a
-                href="tel:+919876543210"
+                href="tel:+919596998917"
                 className="btn-outline text-base px-8 py-4"
                 aria-label="Call Rajouri Hub"
               >
