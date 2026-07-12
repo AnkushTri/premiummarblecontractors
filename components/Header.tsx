@@ -45,7 +45,7 @@ export default function Header() {
         {/* CTA */}
         <div className="hidden md:flex items-center gap-3">
           <a
-            href="tel:+916283969800"
+            href="tel:+916283969898"
             className="btn-gold text-sm py-2 px-4"
             aria-label="Call us now"
           >
